@@ -1,27 +1,27 @@
-Sapien's Graphics is the naem of the YT channel that will go along side this website so I don't know if you would translate it or it would stay the same.
+"Sapien's Graphics" è il nome del canale YT che verrà integrato a questo sito
 
-View Work =
+Visualizza Lavori =
 
-Go Home =
+Vai alla Home =
 
 Thank you for taking the time to view my work. I hope you liked it! =
-
+Grazie per aver passato del tempo a guardare i miei lavori. Spero ti siano piaciuti! 
 Feel free to browse my work. =
-
+Sentiti libero di esplorare i miei lavori
 Sapien's Graphics | Welcome! =
-
+... Benvenuto! 
 Sapien's Graphics | General Artwork =
-
+... Altre Opere
 Sapien's Graphics | Logo Design =
-
+... Design di loghi
 Sapien's Graphics | Paleo Art =
-
+... Paleoarte
 Sapien's Graphics | Pixel Art =
-
+... 
 Sapien's Graphics | FAQ =
-
+... Domande frequenti
 Sapien's Graphics' Portfolio =
-
+Le opere di "Sapien's Graphics" 
 General Artwork =
 
 Logo Design =
@@ -33,27 +33,32 @@ Pixel Art =
 FAQ (frequesntly asked questions) =
 
 Get In Touch =
-
+Contattami
 Digital Graphics Work =
-
+Opere grafiche digitali
 Click the image above to see my portfolio of general artwork. =
-
+Clicca l'immagine sopra per vedere la raccolta "Altre Opere" 
 Click the image above to see my portfolio of logo design. =
-
+Clicca l'immagine sopra per vedere la raccolta "Design di loghi" 
 Click the image above to see my portfolio of paleo art. =
-
+Clicca l'immagine sopra per vedere la raccolta "Paleoarte" 
 Click the image above to see my portfolio of pixel art. =
-
+Clicca l'immagine sopra per vedere la raccolta "Pixel Art" 
 Click the image above to see frequently asked questions. =
-
+Clicca l'immagine sopra per vedere le domande frequenti 
 Email me with any enquiries you have here: =
-
+Inviami una Email per qualsiasi richiesta tu abbia
 General Artwork Portfolio =
-
+Raccolta "Altre Opere" 
 Logo Design Portfolio =
-
+Raccolta "Design di loghi" 
 Paleo Art Portfolio =
-
+Raccolta "Paleoarte" 
 Frequently Asked Questions =
-
+Domande frequenti
 Find answers to some of the frequently asked questions. =
+Trova delle risposte ad alcune delle domande frequenti
+
+
+Credits:
+Fabio Monne. 
